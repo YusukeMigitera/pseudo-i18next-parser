@@ -1,6 +1,6 @@
 {
   "name": "pseudo-i18next-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "bin": {
     "pseudo": "./bin/cli.js"
