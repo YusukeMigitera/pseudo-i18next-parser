@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "",
   "bin": {
-    "i18next": "./bin/cli.js"
+    "pseudo": "./bin/cli.js"
   },
   "main": "index.js",
   "scripts": {
