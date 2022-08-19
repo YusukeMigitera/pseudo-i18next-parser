@@ -1,0 +1,26 @@
+{
+  "name": "pseudo-i18next-parser",
+  "version": "0.1.0",
+  "description": "",
+  "bin": {
+    "i18next": "./bin/cli.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YusukeMigitera/pseudo-i18next-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YusukeMigitera/pseudo-i18next-parser/issues"
+  },
+  "homepage": "https://github.com/YusukeMigitera/pseudo-i18next-parser#readme",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
